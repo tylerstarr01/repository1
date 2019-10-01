@@ -1,3 +1,4 @@
 System.out.println("Test2");
 int j = 0;
 String s = j + "";
+int t = 6;
